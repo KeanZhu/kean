@@ -27,7 +27,7 @@
     self.view.backgroundColor = [UIColor redColor];
     
     UIView *view2 = [[UIView alloc] initWithFrame:CGRectMake(0, 20, [UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height)];
-    view2.backgroundColor = [UIColor yellowColor];
+    view2.backgroundColor = [UIColor cyanColor];
     [self.view addSubview:view2];
     
     
